@@ -1,3 +1,8 @@
+# New change
+but working on terminal.
+
+One more change.
+
 # Machine Learning Problem Bible (MLPB)
 
 MLPB is meant to become an organized collection of machine learning problems and solutions. In practice, machine learning often goes like this
@@ -19,7 +24,7 @@ Problems/
       train.csv
       test.csv
     predict_species_xgb.R
-    
+
   Predict NFL Game Winner/
     _Data/
       train.csv
